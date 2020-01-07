@@ -168,6 +168,10 @@ body .right-container .top-content-right {
   margin-bottom: 2rem;
 }
 
+body .right-container .top-content-right h2 {
+  padding-left: 5rem;
+}
+
 body .right-container .top-content-right .driver-container {
   display: -ms-grid;
   display: grid;
